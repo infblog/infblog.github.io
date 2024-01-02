@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Blog for Infinity
+description: Welcome to Infinity's blog
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://infblog.github.io/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
